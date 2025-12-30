@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech in Computer Technology | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samyak1245&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shamik-Modak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
