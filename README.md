@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🎓 B.Tech student at **YCCE, Nagpur**  
 - 💻 Passionate about **Programming, DSA & Web Development**  
-- 🌱 Currently learning **Java, JavaScript & Full-Stack Development**  
+- 🌱 Currently learning **AIML & Full-Stack Development**  
 - 🎯 Goal: Become a skilled **Software Development Engineer (SDE)**  
 - 🧠 Believe in **consistency > motivation**
 
@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
 </p>
 
 ---
@@ -46,6 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/render.svg" alt="Render" width="45"/>
 </p>
 
 ---
